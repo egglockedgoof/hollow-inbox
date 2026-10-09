@@ -1,0 +1,1 @@
+{"description":"Webhook ping inbox for Hollow","main":"hollow-inbox.js","name":"hollow-inbox","scripts":{"start":"node hollow-inbox.js"},"version":"1.0.0"}
